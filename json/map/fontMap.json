@@ -39,6 +39,31 @@
   "name" : "Raleway Black",
   "path" : "/usr/share/deneTV/fonts/static/raleway/Raleway-Black.ttf",
   "fileName" : "Raleway-Black.ttf"
+},
+{
+  "name" : "Quicksand Light",
+  "path" : "/usr/share/deneTV/fonts/static/quicksand/light.ttf",
+  "fileName" : "light.ttf"
+},
+{
+  "name" : "Quicksand Medium",
+  "path" : "/usr/share/deneTV/fonts/static/quicksand/medium.ttf",
+  "fileName" : "medium.ttf"
+},
+{
+  "name" : "Quicksand Regular",
+  "path" : "/usr/share/deneTV/fonts/static/quicksand/regular.ttf",
+  "fileName" : "regular.ttf"
+},
+{
+  "name" : "Quicksand SemiBold",
+  "path" : "/usr/share/deneTV/fonts/static/quicksand/semiBold.ttf",
+  "fileName" : "semiBold.ttf"
+},
+{
+  "name" : "Quicksand Bold",
+  "path" : "/usr/share/deneTV/fonts/static/quicksand/bold.ttf",
+  "fileName" : "bold.ttf"
 }
 ]
 }
