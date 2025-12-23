@@ -2,67 +2,67 @@
 "root": [
 {
   "name" : "Raleway Thin",
-  "path" : "/usr/share/deneTV/fonts/static/raleway/Raleway-Thin.ttf",
+  "path" : "/usr/share/deneTV/assets/media/fonts/static/raleway/Raleway-Thin.ttf",
   "fileName" : "Raleway-Thin.ttf"
 },
 {
   "name" : "Raleway Extra Light",
-  "path" : "/usr/share/deneTV/fonts/static/raleway/Raleway-ExtraLight.ttf",
+  "path" : "/usr/share/deneTV/assets/media/fonts/static/raleway/Raleway-ExtraLight.ttf",
   "fileName" : "Raleway-ExtraLight.ttf"
 },
 {
   "name" : "Raleway Light",
-  "path" : "/usr/share/deneTV/fonts/static/raleway/Raleway-Light.ttf",
+  "path" : "/usr/share/deneTV/assets/media/fonts/static/raleway/Raleway-Light.ttf",
   "fileName" : "Raleway-Light.ttf"
 },
 {
   "name" : "Raleway Regular",
-  "path" : "/usr/share/deneTV/fonts/static/raleway/Raleway-Regular.ttf",
+  "path" : "/usr/share/deneTV/assets/media/fonts/static/raleway/Raleway-Regular.ttf",
   "fileName" : "Raleway-Regular.ttf"
 },
 {
   "name" : "Raleway Medium",
-  "path" : "/usr/share/deneTV/fonts/static/raleway/Raleway-Medium.ttf",
+  "path" : "/usr/share/deneTV/assets/media/fonts/static/raleway/Raleway-Medium.ttf",
   "fileName" : "Raleway-Medium.ttf"
 },
 {
   "name" : "Raleway Semi Bold",
-  "path" : "/usr/share/deneTV/fonts/static/raleway/Raleway-SemiBold.ttf",
+  "path" : "/usr/share/deneTV/assets/media/fonts/static/raleway/Raleway-SemiBold.ttf",
   "fileName" : "Raleway-SemiBold.ttf"
 },
 {
   "name" : "Raleway Bold",
-  "path" : "/usr/share/deneTV/fonts/static/raleway/Raleway-Bold.ttf",
+  "path" : "/usr/share/deneTV/assets/media/fonts/static/raleway/Raleway-Bold.ttf",
   "fileName" : "Raleway-Bold.ttf"
 },
 {
   "name" : "Raleway Black",
-  "path" : "/usr/share/deneTV/fonts/static/raleway/Raleway-Black.ttf",
+  "path" : "/usr/share/deneTV/assets/media/fonts/static/raleway/Raleway-Black.ttf",
   "fileName" : "Raleway-Black.ttf"
 },
 {
   "name" : "Quicksand Light",
-  "path" : "/usr/share/deneTV/fonts/static/quicksand/light.ttf",
+  "path" : "/usr/share/deneTV/assets/media/fonts/static/quicksand/light.ttf",
   "fileName" : "light.ttf"
 },
 {
   "name" : "Quicksand Medium",
-  "path" : "/usr/share/deneTV/fonts/static/quicksand/medium.ttf",
+  "path" : "/usr/share/deneTV/assets/media/fonts/static/quicksand/medium.ttf",
   "fileName" : "medium.ttf"
 },
 {
   "name" : "Quicksand Regular",
-  "path" : "/usr/share/deneTV/fonts/static/quicksand/regular.ttf",
+  "path" : "/usr/share/deneTV/assets/media/fonts/static/quicksand/regular.ttf",
   "fileName" : "regular.ttf"
 },
 {
   "name" : "Quicksand SemiBold",
-  "path" : "/usr/share/deneTV/fonts/static/quicksand/semiBold.ttf",
+  "path" : "/usr/share/deneTV/assets/media/fonts/static/quicksand/semiBold.ttf",
   "fileName" : "semiBold.ttf"
 },
 {
   "name" : "Quicksand Bold",
-  "path" : "/usr/share/deneTV/fonts/static/quicksand/bold.ttf",
+  "path" : "/usr/share/deneTV/assets/media/fonts/static/quicksand/bold.ttf",
   "fileName" : "bold.ttf"
 }
 ]
